@@ -340,6 +340,8 @@ or both.  We are very grateful to all of them.
 * Peter Newhook
 * Santiago Suarez-Ordonez
 * Simon Stewart
+* 'Karthik K'_
+.. _`Karthik K`: http://itelearn.com/
 * `Tarun Kumar`_
 
 .. _`Tarun Kumar`: http://seleniumtests.com/
