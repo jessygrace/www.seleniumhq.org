@@ -343,7 +343,9 @@ or both.  We are very grateful to all of them.
 * `Tarun Kumar`_
 
 .. _`Tarun Kumar`: http://seleniumtests.com/
+* `Karthik K`_
 
+.. _`Karthik K`: http://itelearn.com/
 
 
 Acknowledgements
